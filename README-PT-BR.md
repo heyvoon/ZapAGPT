@@ -2,7 +2,7 @@
 
 **Descrição do Projeto:**
 
-O projeto "WhatsVoice" tem como objetivo desenvolver um aplicativo inovador para dispositivos móveis que irá auxiliar deficientes visuais no uso do Whatsapp por meio da tecnologia de voz e do ChatGPT. A ideia surgiu a partir da necessidade pessoal do idealizador, André Barbosa, que possui um irmão com deficiência visual e enfrenta dificuldades em manter um contato mais fluido e independente com ele, já que vivem distantes.
+O projeto "ZapAGPT" tem como objetivo desenvolver um aplicativo inovador para dispositivos móveis que irá auxiliar deficientes visuais no uso do Whatsapp por meio da tecnologia de voz e do ChatGPT. A ideia surgiu a partir da necessidade pessoal do idealizador, André Barbosa, que possui um irmão com deficiência visual e enfrenta dificuldades em manter um contato mais fluido e independente com ele, já que vivem distantes.
 
 O aplicativo "ZapAGPT" será uma solução inclusiva e prática para permitir que deficientes visuais possam utilizar o Whatsapp por meio de interações de voz, tornando a comunicação mais acessível e eficiente para essa comunidade. Com a ajuda do ChatGPT, uma avançada tecnologia de processamento de linguagem natural, o aplicativo permitirá que os usuários recebam e enviem mensagens através de comandos de voz, eliminando a necessidade de digitar texto.
 
