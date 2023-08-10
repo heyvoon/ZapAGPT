@@ -1,10 +1,16 @@
-## ZapAGPT Facilitating Communication for the Visually Impaired ##
+## ZapAGPT Facilitating Communication for the Visually Impaired 👨‍🦯
 
 **Project Description:**
 
 The "ZapAGPT" project aims to develop an innovative mobile application that will assist visually impaired people in using WhatsApp through voice technology and ChatGPT. The idea came from the personal need of the creator, André Barbosa, who has a visually impaired brother and faces difficulties in maintaining more fluid and independent contact with him, since they live far apart.
 
 The "ZapAGPT" application will be an inclusive and practical solution to allow visually impaired people to use WhatsApp through voice interactions, making communication more accessible and efficient for this community. With the help of ChatGPT, an advanced natural language processing technology, the application will allow users to receive and send messages through voice commands, eliminating the need to type text.
+
+**⚠️ Support and Collaboration: ⚠️**
+
+**The "ZapAGPT" project is currently in the fundraising phase through a crowdfunding campaign to finance the development of the application. The collaboration of the community and interested partners is essential to make this initiative a reality that will transform lives. Soon, we will have links to the crowdfunding platforms here, so stay tuned!**
+
+**With everyone's support and engagement, "ZapAGPT" will open paths for digital inclusion and significantly contribute to equal opportunities and access to communication for visually impaired people worldwide. Together, we can make a difference and promote inclusion in an innovative and impactful way! Is there anything else I can help with? 😊**
 
 **Main Features:**
 
@@ -29,11 +35,3 @@ The "ZapAGPT" application will be an inclusive and practical solution to allow v
 **Expected Impact:**
 
 "ZapAGPT" has the potential to benefit not only the creator's brother but also the entire visually impaired community around the world. By allowing more accessible, immediate, and independent communication through WhatsApp, the application can improve the quality of life of millions of visually impaired people, providing a more inclusive communication channel and connecting them with their family members, friends, and contacts more effectively.
-
-**Support and Collaboration:**
-
-The "ZapAGPT" project is in the fundraising phase through a crowdfunding campaign to finance the development of the application. The collaboration of the community and interested partners will be essential to make this initiative a reality that will transform lives.
-
-With everyone's support and engagement, "ZapAGPT" will open paths for digital inclusion and significantly contribute to equal opportunities and access to communication for visually impaired people worldwide.
-
-Together we can make a difference and promote inclusion in an innovative and impactful way!
